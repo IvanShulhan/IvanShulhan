@@ -27,7 +27,7 @@ Applied best practices in software development, including Agile methodologies an
 Continuously improved codebases through refactoring and by covering code with unit tests.
 
 ##  Contacts
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.shulhan@meduzzen.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivan.shulhan.introduct@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-shulhan-3955b41ab/)
 
 
